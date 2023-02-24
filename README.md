@@ -12,6 +12,14 @@ Things you may want to cover:
 
   `bundle exec rspec`
 
+* DB seeds
+
+  `rails db:seed`
+
+* POSTMAN Collection
+
+  `/postman/Auction-interview.postman_collection.json`
+
 * link for the video recorded
 
     https://drive.google.com/file/d/1-DQO4goaSLm_s-hOupaDWzdCh3tb001H/view?usp=share_link
