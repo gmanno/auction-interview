@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Code challenge for Sardine
 
 Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+  `v3.0.2p107`
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+  `bundle exec rspec`
 
-* Deployment instructions
+* link for the video recorded
 
-* ...
+    https://drive.google.com/file/d/1-DQO4goaSLm_s-hOupaDWzdCh3tb001H/view?usp=share_link
+
