@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+User.destroy_all
+
+User.create!([{
+  name: "Sardine admin",
+  email: "test+admin@sardine.ai",
+},
+{
+  name: "Sardine dev",
+  email: "test+dev@sardine.ai",
+}])

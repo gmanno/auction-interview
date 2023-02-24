@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  post 'bid', to: 'bids#bid', as: :bid
+  get 'view/(:user_id)', to: 'bids#view', as: :view
 end
